@@ -1,6 +1,8 @@
 # Mandelbulb Raymarching
 Mandelbulb renderer using raymarching with DirectX11.
 
+![mandelbulb](https://github.com/ParallaxError/MandelbulbRaymarching/blob/main/images/mandelbulb.png?raw=true)
+
 A Windows Desktop application that renders the Mandelbulb fractal using signed distance functions (SDFs) and raymarching. 
 More information on the fractal and the SDF can be found [here](https://iquilezles.org/articles/mandelbulb/).
 
