@@ -1,2 +1,4 @@
 # MandelbulbRaymarching
-Mandelbulb renderer using raymarching with DirectX11
+Mandelbulb renderer using raymarching with DirectX11.
+
+
